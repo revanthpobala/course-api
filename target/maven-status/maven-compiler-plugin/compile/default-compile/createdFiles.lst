@@ -1,6 +1,10 @@
 io\revanth\springbootstarter\topic\TopicService.class
 io\revanth\springbootstarter\hello\HelloController.class
+io\revanth\springbootstarter\topic\course\Course.class
+io\revanth\springbootstarter\topic\course\CourseService.class
 io\revanth\springbootstarter\topic\TopicRepository.class
+io\revanth\springbootstarter\topic\course\CourseRepository.class
 io\revanth\springbootstarter\topic\Topic.class
 io\revanth\springbootstarter\topic\TopicController.class
 io\revanth\springbootstarter\CourseAPIApp.class
+io\revanth\springbootstarter\topic\course\CourseController.class
